@@ -1,0 +1,169 @@
+[ {
+  "numId" : 68,
+  "curso" : "2ESOA",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "422",
+  "diaSemana" : 1,
+  "hora" : 2
+}, {
+  "numId" : 251,
+  "curso" : "1BSH",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "502",
+  "diaSemana" : 1,
+  "hora" : 5
+}, {
+  "numId" : 310,
+  "curso" : "4ESOD",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "522",
+  "diaSemana" : 1,
+  "hora" : 6
+}, {
+  "numId" : 550,
+  "curso" : "2ESOF",
+  "inicialesProf" : "SBR",
+  "asignatura" : "LIBD3",
+  "aula" : "422",
+  "diaSemana" : 2,
+  "hora" : 3
+}, {
+  "numId" : 551,
+  "curso" : "2ESOG",
+  "inicialesProf" : "SBR",
+  "asignatura" : "LIBD3",
+  "aula" : "422",
+  "diaSemana" : 2,
+  "hora" : 3
+}, {
+  "numId" : 552,
+  "curso" : "2ESOH",
+  "inicialesProf" : "SBR",
+  "asignatura" : "LIBD3",
+  "aula" : "422",
+  "diaSemana" : 2,
+  "hora" : 3
+}, {
+  "numId" : 649,
+  "curso" : "4ESOD",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "TIC1",
+  "diaSemana" : 2,
+  "hora" : 5
+}, {
+  "numId" : 733,
+  "curso" : "1BA",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "211",
+  "diaSemana" : 2,
+  "hora" : 6
+}, {
+  "numId" : 762,
+  "curso" : "2ESOB",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "423",
+  "diaSemana" : 2,
+  "hora" : 7
+}, {
+  "numId" : 1067,
+  "curso" : "4ESOD",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "522",
+  "diaSemana" : 3,
+  "hora" : 5
+}, {
+  "numId" : 1108,
+  "curso" : "2ESOA",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "TIC1",
+  "diaSemana" : 3,
+  "hora" : 6
+}, {
+  "numId" : 1189,
+  "curso" : "2ESOB",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "423",
+  "diaSemana" : 3,
+  "hora" : 7
+}, {
+  "numId" : 1355,
+  "curso" : "1BA",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "211",
+  "diaSemana" : 4,
+  "hora" : 2
+}, {
+  "numId" : 1378,
+  "curso" : "2ESOA",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "422",
+  "diaSemana" : 4,
+  "hora" : 3
+}, {
+  "numId" : 1486,
+  "curso" : "1BSH",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "502",
+  "diaSemana" : 4,
+  "hora" : 5
+}, {
+  "numId" : 1534,
+  "curso" : "2ESOA",
+  "inicialesProf" : "SBR",
+  "asignatura" : "LIBD3",
+  "aula" : "425",
+  "diaSemana" : 4,
+  "hora" : 6
+}, {
+  "numId" : 1535,
+  "curso" : "2ESOB",
+  "inicialesProf" : "SBR",
+  "asignatura" : "LIBD3",
+  "aula" : "425",
+  "diaSemana" : 4,
+  "hora" : 6
+}, {
+  "numId" : 1621,
+  "curso" : "4ESOD",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "522",
+  "diaSemana" : 4,
+  "hora" : 7
+}, {
+  "numId" : 1903,
+  "curso" : "1BSH",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "TIC2",
+  "diaSemana" : 5,
+  "hora" : 5
+}, {
+  "numId" : 1934,
+  "curso" : "2ESOB",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "TIC2",
+  "diaSemana" : 5,
+  "hora" : 6
+}, {
+  "numId" : 2021,
+  "curso" : "1BA",
+  "inicialesProf" : "SBR",
+  "asignatura" : "ING",
+  "aula" : "TIC2",
+  "diaSemana" : 5,
+  "hora" : 7
+} ]

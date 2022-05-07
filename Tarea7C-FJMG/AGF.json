@@ -1,0 +1,185 @@
+[ {
+  "numId" : 193,
+  "curso" : "1ESOD",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LIBD1",
+  "aula" : "409",
+  "diaSemana" : 1,
+  "hora" : 5
+}, {
+  "numId" : 194,
+  "curso" : "1ESOE",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LIBD1",
+  "aula" : "409",
+  "diaSemana" : 1,
+  "hora" : 5
+}, {
+  "numId" : 283,
+  "curso" : "1ESOG",
+  "inicialesProf" : "AGF",
+  "asignatura" : "TUT",
+  "aula" : "411",
+  "diaSemana" : 1,
+  "hora" : 6
+}, {
+  "numId" : 340,
+  "curso" : "1ESOD",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LCL",
+  "aula" : "404",
+  "diaSemana" : 1,
+  "hora" : 7
+}, {
+  "numId" : 458,
+  "curso" : "1ESOD",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LCL",
+  "aula" : "404",
+  "diaSemana" : 2,
+  "hora" : 2
+}, {
+  "numId" : 626,
+  "curso" : "1ESOG",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LCL",
+  "aula" : "411",
+  "diaSemana" : 2,
+  "hora" : 5
+}, {
+  "numId" : 685,
+  "curso" : "1ESOD",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LIBD7",
+  "aula" : "409",
+  "diaSemana" : 2,
+  "hora" : 6
+}, {
+  "numId" : 686,
+  "curso" : "1ESOE",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LIBD7",
+  "aula" : "409",
+  "diaSemana" : 2,
+  "hora" : 6
+}, {
+  "numId" : 687,
+  "curso" : "1ESOF",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LIBD7",
+  "aula" : "409",
+  "diaSemana" : 2,
+  "hora" : 6
+}, {
+  "numId" : 761,
+  "curso" : "2ESOA",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LCL",
+  "aula" : "422",
+  "diaSemana" : 2,
+  "hora" : 7
+}, {
+  "numId" : 944,
+  "curso" : "2ESOA",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LCL",
+  "aula" : "422",
+  "diaSemana" : 3,
+  "hora" : 3
+}, {
+  "numId" : 1024,
+  "curso" : "1ESOD",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LIBD1",
+  "aula" : "409",
+  "diaSemana" : 3,
+  "hora" : 5
+}, {
+  "numId" : 1025,
+  "curso" : "1ESOE",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LIBD1",
+  "aula" : "409",
+  "diaSemana" : 3,
+  "hora" : 5
+}, {
+  "numId" : 1102,
+  "curso" : "1ESOD",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LCL",
+  "aula" : "404",
+  "diaSemana" : 3,
+  "hora" : 6
+}, {
+  "numId" : 1185,
+  "curso" : "1ESOG",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LCL",
+  "aula" : "411",
+  "diaSemana" : 3,
+  "hora" : 7
+}, {
+  "numId" : 1375,
+  "curso" : "1ESOG",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LCL",
+  "aula" : "411",
+  "diaSemana" : 4,
+  "hora" : 3
+}, {
+  "numId" : 1454,
+  "curso" : "2ESOA",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LCL",
+  "aula" : "422",
+  "diaSemana" : 4,
+  "hora" : 5
+}, {
+  "numId" : 1518,
+  "curso" : "1ESOD",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LIBD7",
+  "aula" : "409",
+  "diaSemana" : 4,
+  "hora" : 6
+}, {
+  "numId" : 1519,
+  "curso" : "1ESOE",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LIBD7",
+  "aula" : "409",
+  "diaSemana" : 4,
+  "hora" : 6
+}, {
+  "numId" : 1520,
+  "curso" : "1ESOF",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LIBD7",
+  "aula" : "409",
+  "diaSemana" : 4,
+  "hora" : 6
+}, {
+  "numId" : 1595,
+  "curso" : "1ESOD",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LCL",
+  "aula" : "404",
+  "diaSemana" : 4,
+  "hora" : 7
+}, {
+  "numId" : 1928,
+  "curso" : "1ESOG",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LCL",
+  "aula" : "411",
+  "diaSemana" : 5,
+  "hora" : 6
+}, {
+  "numId" : 1994,
+  "curso" : "2ESOA",
+  "inicialesProf" : "AGF",
+  "asignatura" : "LCL",
+  "aula" : "422",
+  "diaSemana" : 5,
+  "hora" : 7
+} ]
